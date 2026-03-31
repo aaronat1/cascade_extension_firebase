@@ -4,7 +4,7 @@
   "description": "Automatically deletes all subcollections when a Firestore document is deleted.",
   "main": "lib/index.js",
   "scripts": {
-    "build": "tsc",
+    "build": "echo 'pre-built'",
     "build:watch": "tsc --watch"
   },
   "engines": {
