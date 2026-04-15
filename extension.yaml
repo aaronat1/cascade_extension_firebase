@@ -7,6 +7,7 @@ description: >-
   of its subcollections recursively — something Firestore does not do natively.
   Prevents orphaned data and keeps your database clean.
 license: Apache-2.0
+stage: stable
 icon: icon.png
 author:
   authorName: aaronat1

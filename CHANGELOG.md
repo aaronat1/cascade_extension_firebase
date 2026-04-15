@@ -1,3 +1,8 @@
+## Version 0.1.2
+
+- Upgrade Node.js engine to 20.
+- Add `stage: stable` to extension.yaml.
+
 ## Version 0.1.1
 
 - Fix: set Node.js engine to 18 for Cloud Build compatibility.
